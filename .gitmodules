@@ -1,0 +1,6 @@
+[submodule "mesos-jenkins"]
+	path = mesos-jenkins
+	url = https://github.com/carlossg/mesos-jenkins.git
+[submodule "docker-jvm-memory"]
+	path = docker-jvm-memory
+	url = https://github.com/carlossg/docker-jvm-memory.git
